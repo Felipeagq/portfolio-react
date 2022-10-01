@@ -40,10 +40,10 @@ export default function AboutMe({ name, picture, about, children }) {
 AboutMe.defaultProps = {
     name:"Felipe Gonzalez",
     picture:{
-        src : "/images/aeolian.jpg",
+        src : "/images/aeolian  .jpg",
          width : 300,
          height : 300,
         alt : "profilePicture",
     },
-    about :"FullStack en desarrollo con conocimiento en Python, docker, aws y react"
+    about :"FullStack en desarrollo con conocimiento en Python en backend usando las librerias de Django-RestFrameWork, docker, aws y react"
 }
