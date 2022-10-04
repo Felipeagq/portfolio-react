@@ -40,7 +40,7 @@ export default function AboutMe({ name, picture, about, children }) {
 AboutMe.defaultProps = {
     name:"Felipe Gonzalez",
     picture:{
-        src : "/images/aeolian  .jpg",
+        src : "/images/me.jpeg",
          width : 300,
          height : 300,
         alt : "profilePicture",
